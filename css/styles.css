@@ -67,3 +67,11 @@ body {
   font-weight: 400;
   font-style: italic;
 }
+
+.border {
+	border-color: white!important;
+}
+
+.language-progress {
+	background-color: #C19EDB;
+}
